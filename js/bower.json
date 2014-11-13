@@ -1,0 +1,18 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "authors": [
+    "Fabio Mora <mail@fabiomora.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "qunit": "~1.15.0"
+  }
+}
